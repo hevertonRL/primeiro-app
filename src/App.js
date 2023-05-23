@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Component App</h1>
-      <Nome />
+      <Nome nome='Heverton' idade='35' />
     </div>
   );
 }
